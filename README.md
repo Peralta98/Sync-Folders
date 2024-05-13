@@ -1,1 +1,2 @@
 "# sync-folders" 
+"# SyncFolders" 
